@@ -1,0 +1,4 @@
+Model,Accuracy
+Logistic Regression,1.0
+Random Forest,0.987012987012987
+Gradient Boosting,1.0
